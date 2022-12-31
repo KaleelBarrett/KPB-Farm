@@ -1,0 +1,73 @@
+.green-banana,
+.plantain {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.yam,
+.potato,
+.pumpkin,
+.irish,
+.okra,
+.cucumber {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 16px;
+  size: 20 px;
+}
+
+.onion,
+.callaloo,
+.chicken {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.peper,
+.thyme,
+.esc,
+.garlic,
+.pork {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 16px;
+  size: 20 px;
+}
+
+.pak-choi {
+  width: 200px;
+  margin-top: 100 px;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 16px;
+  size: 20 px;
+}
+
+.potato-picture,
+.yellow-yam-picture,
+.onion,
+.pumpkin-picture,
+.irish-picture,
+.plantain-picture,
+.green-banana-picture,
+.pepper-picture,
+.escallion-picture,
+.thyme-picture,
+.garlic-picture,
+.callaloo-picture,
+.okra-picture,
+.cucumber-picture,
+.pak-choi-picture,
+.chicken-picture,
+.pork-picture {
+  width: 200px;
+  height: 200 px;
+}

@@ -1,0 +1,12 @@
+header {
+  background-color: #666;
+  padding: 5px;
+  text-align: left;
+  font-size: 15px;
+  color: white;
+  border: 2px solid black;
+}
+.footer-container {
+  background-color: #666;
+  padding: 5px;
+}
