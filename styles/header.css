@@ -1,11 +1,23 @@
-header {
-  background-color: #666;
+.logo {
   padding: 5px;
+  width: 20px;
+  height: 20px;
   text-align: left;
   font-size: 15px;
   color: white;
-  border: 2px solid black;
+  display: inline-block;
 }
+
+.header-right {
+  background-color: #666;
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  border: 2px solid black;
+  align-self: right;
+  display: inline-block;
+}
+
 .footer-container {
   background-color: #666;
   padding: 5px;
